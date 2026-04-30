@@ -1,4 +1,4 @@
-# Federated Learning Experimental Analysis (IID vs Non-IID)
+# Federated Learning for Privacy-Preserving Collaborative AI: An Experimental Analysis of Data Distribution (IID vs Non-IID)
 
 ## 📌 Project Overview
 This project implements a Federated Learning (FL) simulation system to analyze how data distribution affects model performance. The study compares three learning approaches:
